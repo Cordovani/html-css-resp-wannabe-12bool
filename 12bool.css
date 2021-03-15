@@ -128,12 +128,12 @@
 }
 
 
-/* media questy md device */
+/* media questy MD device */
 @media all and (max-width: 991px) and (min-width: 768px) {
 
 }
 
-/* media questy lg device */
+/* media questy LG device */
 @media all and (min-width: 992px) {
-    
+
 }
