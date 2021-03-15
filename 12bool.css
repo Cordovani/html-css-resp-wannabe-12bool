@@ -121,3 +121,19 @@
     margin-left: calc( (100% / 12) * 11 );
 }
 
+
+/* media questy XS device */
+@media all and (max-width: 767px) {
+
+}
+
+
+/* media questy md device */
+@media all and (max-width: 991px) and (min-width: 768px) {
+
+}
+
+/* media questy lg device */
+@media all and (min-width: 992px) {
+    
+}
